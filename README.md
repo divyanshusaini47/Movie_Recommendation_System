@@ -43,8 +43,8 @@ Used the **MovieLens dataset**, including:
 
 4. Libraries Used
     
-   a) pandas
-   b) numpy
-   c) scikit-learn
-   d) matplotlib / seaborn (if used for visualization)
+   - pandas
+   - numpy
+   - scikit-learn
+   - matplotlib / seaborn (if used for visualization)
 
